@@ -1,5 +1,5 @@
-pip install streamlit
-pip install math
+%pip install streamlit
+%pip install math
 
 import streamlit as st
 import math
